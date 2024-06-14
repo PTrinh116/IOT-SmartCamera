@@ -3,7 +3,8 @@
 
 ## Overview
 
-This project implements a smart camera system using Raspberry Pi 4. The system runs a Python script `camera.py` that captures video footage. When the script detects a human face, it sends the footage to a server for further processing. The server is responsible for facial recognition and returns the results.
+Overview
+This project implements a smart camera system using Raspberry Pi 4. The system utilizes a Python script camera.py to capture video footage. Prior to recording, a PIR (Passive Infrared) sensor detects motion to activate the camera. When the script detects a human face in the captured footage, it transmits the data to a server for facial recognition processing. The server then analyzes the data and returns the recognized results.
 
 ## Requirements
 
