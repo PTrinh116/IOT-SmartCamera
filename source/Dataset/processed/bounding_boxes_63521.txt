@@ -1,0 +1,500 @@
+Dataset/processed\Ngoc\ngoc (114).png 264 226 429 438
+Dataset/processed\Ngoc\ngoc (58).png 235 225 405 445
+Dataset/processed\Ngoc\ngoc (166).png 249 245 409 453
+Dataset/processed\Ngoc\ngoc (13).png 98 239 294 480
+Dataset/processed\Ngoc\ngoc (218).png 244 222 397 412
+Dataset/processed\Ngoc\ngoc (269).png 245 245 422 469
+Dataset/processed\Ngoc\ngoc (165).png 247 240 414 455
+Dataset/processed\Ngoc\ngoc (132).png 228 242 385 450
+Dataset/processed\Ngoc\ngoc (97).png 250 246 414 452
+Dataset/processed\Ngoc\ngoc (217).png 251 225 409 422
+Dataset/processed\Ngoc\ngoc (53).png 255 226 419 433
+Dataset/processed\Ngoc\ngoc (111).png 259 228 425 445
+Dataset/processed\Ngoc\ngoc (108).png 238 238 416 459
+Dataset/processed\Ngoc\ngoc (187).png 250 246 411 451
+Dataset/processed\Ngoc\ngoc (273).png 291 240 457 455
+Dataset/processed\Ngoc\ngoc (256).png 244 248 415 468
+Dataset/processed\Ngoc\ngoc (145).png 266 218 414 376
+Dataset/processed\Ngoc\ngoc (282).png 238 248 406 461
+Dataset/processed\Ngoc\ngoc (15).png 107 235 298 474
+Dataset/processed\Ngoc\ngoc (268).png 246 245 421 469
+Dataset/processed\Ngoc\ngoc (260).png 242 243 418 468
+Dataset/processed\Ngoc\ngoc (51).png 247 221 417 435
+Dataset/processed\Ngoc\ngoc (195).png 250 246 410 455
+Dataset/processed\Ngoc\ngoc (163).png 249 242 415 452
+Dataset/processed\Ngoc\ngoc (63).png 293 236 452 438
+Dataset/processed\Ngoc\ngoc (147).png 259 249 420 451
+Dataset/processed\Ngoc\ngoc (171).png 249 243 410 451
+Dataset/processed\Ngoc\ngoc (202).png 250 241 414 442
+Dataset/processed\Ngoc\ngoc (242).png 231 262 424 480
+Dataset/processed\Ngoc\ngoc (238).png 254 244 423 455
+Dataset/processed\Ngoc\ngoc (225).png 258 229 430 442
+Dataset/processed\Ngoc\ngoc (193).png 251 248 412 452
+Dataset/processed\Ngoc\ngoc (172).png 246 244 410 455
+Dataset/processed\Ngoc\ngoc (56).png 256 233 413 441
+Dataset/processed\Ngoc\ngoc (94).png 251 244 416 453
+Dataset/processed\Ngoc\ngoc (205).png 254 238 415 442
+Dataset/processed\Ngoc\ngoc (80).png 257 231 417 438
+Dataset/processed\Ngoc\ngoc (170).png 246 240 414 454
+Dataset/processed\Ngoc\ngoc (16).png 194 180 388 436
+Dataset/processed\Ngoc\ngoc (43).png 273 221 447 431
+Dataset/processed\Ngoc\ngoc (213).png 295 235 452 436
+Dataset/processed\Ngoc\ngoc (207).png 255 234 419 445
+Dataset/processed\Ngoc\ngoc (192).png 248 241 415 455
+Dataset/processed\Ngoc\ngoc (261).png 245 247 418 470
+Dataset/processed\Ngoc\ngoc (232).png 253 230 427 452
+Dataset/processed\Ngoc\ngoc (289).png 249 233 419 450
+Dataset/processed\Ngoc\ngoc (8).png 248 220 423 439
+Dataset/processed\Ngoc\ngoc (228).png 259 233 430 449
+Dataset/processed\Ngoc\ngoc (286).png 240 250 405 462
+Dataset/processed\Ngoc\ngoc (197).png 248 246 410 456
+Dataset/processed\Ngoc\ngoc (14).png 99 238 288 479
+Dataset/processed\Ngoc\ngoc (44).png 247 233 423 434
+Dataset/processed\Ngoc\ngoc (276).png 259 230 423 440
+Dataset/processed\Ngoc\ngoc (222).png 270 229 442 451
+Dataset/processed\Ngoc\ngoc (85).png 263 228 423 426
+Dataset/processed\Ngoc\ngoc (87).png 268 230 431 438
+Dataset/processed\Ngoc\ngoc (89).png 254 237 422 443
+Dataset/processed\Ngoc\ngoc (155).png 248 235 417 446
+Dataset/processed\Ngoc\ngoc (291).png 188 249 345 448
+Dataset/processed\Ngoc\ngoc (184).png 250 246 411 451
+Dataset/processed\Ngoc\ngoc (78).png 261 224 422 432
+Dataset/processed\Ngoc\ngoc (136).png 213 226 375 445
+Dataset/processed\Ngoc\ngoc (2).png 257 281 421 480
+Dataset/processed\Ngoc\ngoc (173).png 249 248 411 454
+Dataset/processed\Ngoc\ngoc (250).png 236 240 418 472
+Dataset/processed\Ngoc\ngoc (200).png 247 237 415 454
+Dataset/processed\Ngoc\ngoc (214).png 301 240 451 437
+Dataset/processed\Ngoc\ngoc (17).png 245 192 434 429
+Dataset/processed\Ngoc\ngoc (121).png 241 233 404 447
+Dataset/processed\Ngoc\ngoc (188).png 250 245 411 453
+Dataset/processed\Ngoc\ngoc (86).png 261 224 423 428
+Dataset/processed\Ngoc\ngoc (284).png 239 243 409 461
+Dataset/processed\Ngoc\ngoc (3).png 262 237 427 445
+Dataset/processed\Ngoc\ngoc (274).png 288 241 451 452
+Dataset/processed\Ngoc\ngoc (128).png 239 240 394 443
+Dataset/processed\Ngoc\ngoc (36).png 155 219 325 472
+Dataset/processed\Ngoc\ngoc (161).png 248 238 416 450
+Dataset/processed\Ngoc\ngoc (265).png 245 244 422 471
+Dataset/processed\Ngoc\ngoc (190).png 243 242 417 462
+Dataset/processed\Ngoc\ngoc (124).png 218 245 370 447
+Dataset/processed\Ngoc\ngoc (9).png 200 230 359 440
+Dataset/processed\Ngoc\ngoc (158).png 257 237 422 444
+Dataset/processed\Ngoc\ngoc (6).png 270 235 420 431
+Dataset/processed\Ngoc\ngoc (120).png 246 219 414 436
+Dataset/processed\Ngoc\ngoc (21).png 209 192 397 418
+Dataset/processed\Ngoc\ngoc (65).png 255 251 435 472
+Dataset/processed\Ngoc\ngoc (246).png 238 258 429 480
+Dataset/processed\Ngoc\ngoc (133).png 246 234 413 446
+Dataset/processed\Ngoc\ngoc (79).png 257 230 421 436
+Dataset/processed\Ngoc\ngoc (99).png 222 233 387 442
+Dataset/processed\Ngoc\ngoc (22).png 251 199 431 424
+Dataset/processed\Ngoc\ngoc (105).png 240 252 430 480
+Dataset/processed\Ngoc\ngoc (66).png 268 204 426 391
+Dataset/processed\Ngoc\ngoc (234).png 260 242 428 455
+Dataset/processed\Ngoc\ngoc (38).png 236 208 426 446
+Dataset/processed\Ngoc\ngoc (174).png 248 241 415 453
+Dataset/processed\Ngoc\ngoc (211).png 292 234 451 436
+Dataset/processed\Ngoc\ngoc (247).png 242 243 425 473
+Dataset/processed\Ngoc\ngoc (98).png 227 234 389 441
+Dataset/processed\Ngoc\ngoc (46).png 259 229 418 433
+Dataset/processed\Ngoc\ngoc (67).png 258 204 422 399
+Dataset/processed\Ngoc\ngoc (233).png 259 234 428 452
+Dataset/processed\Ngoc\ngoc (252).png 241 242 419 470
+Dataset/processed\Ngoc\ngoc (49).png 244 218 411 429
+Dataset/processed\Ngoc\ngoc (209).png 254 234 417 442
+Dataset/processed\Ngoc\ngoc (52).png 252 228 423 440
+Dataset/processed\Ngoc\ngoc (42).png 255 197 419 377
+Dataset/processed\Ngoc\ngoc (224).png 254 228 428 443
+Dataset/processed\Ngoc\ngoc (93).png 251 246 416 454
+Dataset/processed\Ngoc\ngoc (243).png 234 260 427 480
+Dataset/processed\Ngoc\ngoc (206).png 255 234 417 442
+Dataset/processed\Ngoc\ngoc (130).png 223 231 386 446
+Dataset/processed\Ngoc\ngoc (280).png 235 246 410 466
+Dataset/processed\Ngoc\ngoc (299).png 234 234 405 452
+Dataset/processed\Ngoc\ngoc (73).png 243 226 404 428
+Dataset/processed\Ngoc\ngoc (212).png 296 235 453 434
+Dataset/processed\Ngoc\ngoc (138).png 248 226 423 450
+Dataset/processed\Ngoc\ngoc (31).png 266 217 436 434
+Dataset/processed\Ngoc\ngoc (251).png 242 247 419 474
+Dataset/processed\Ngoc\ngoc (50).png 241 217 408 426
+Dataset/processed\Ngoc\ngoc (40).png 246 254 427 468
+Dataset/processed\Ngoc\ngoc (110).png 256 224 431 453
+Dataset/processed\Ngoc\ngoc (227).png 264 232 434 448
+Dataset/processed\Ngoc\ngoc (103).png 251 246 426 464
+Dataset/processed\Ngoc\ngoc (263).png 245 245 422 472
+Dataset/processed\Ngoc\ngoc (150).png 263 232 425 437
+Dataset/processed\Ngoc\ngoc (156).png 251 235 419 451
+Dataset/processed\Ngoc\ngoc (271).png 247 247 423 473
+Dataset/processed\Ngoc\ngoc (278).png 235 228 399 437
+Dataset/processed\Ngoc\ngoc (229).png 255 232 430 453
+Dataset/processed\Ngoc\ngoc (168).png 249 242 415 452
+Dataset/processed\Ngoc\ngoc (125).png 218 239 373 446
+Dataset/processed\Ngoc\ngoc (100).png 244 226 408 440
+Dataset/processed\Ngoc\ngoc (82).png 250 231 409 434
+Dataset/processed\Ngoc\ngoc (143).png 296 225 460 437
+Dataset/processed\Ngoc\ngoc (102).png 247 228 399 430
+Dataset/processed\Ngoc\ngoc (25).png 284 201 474 443
+Dataset/processed\Ngoc\ngoc (159).png 249 232 418 449
+Dataset/processed\Ngoc\ngoc (59).png 290 228 450 443
+Dataset/processed\Ngoc\ngoc (167).png 249 242 415 452
+Dataset/processed\Ngoc\ngoc (215).png 297 241 454 443
+Dataset/processed\Ngoc\ngoc (275).png 255 229 420 437
+Dataset/processed\Ngoc\ngoc (12).png 108 229 310 479
+Dataset/processed\Ngoc\ngoc (107).png 238 237 413 447
+Dataset/processed\Ngoc\ngoc (235).png 255 243 425 455
+Dataset/processed\Ngoc\ngoc (208).png 254 235 416 441
+Dataset/processed\Ngoc\ngoc (117).png 201 241 353 455
+Dataset/processed\Ngoc\ngoc (113).png 273 227 434 437
+Dataset/processed\Ngoc\ngoc (162).png 245 247 410 451
+Dataset/processed\Ngoc\ngoc (179).png 249 246 411 451
+Dataset/processed\Ngoc\ngoc (183).png 246 241 415 455
+Dataset/processed\Ngoc\ngoc (141).png 255 230 426 446
+Dataset/processed\Ngoc\ngoc (1).png 244 220 413 439
+Dataset/processed\Ngoc\ngoc (81).png 254 232 415 437
+Dataset/processed\Ngoc\ngoc (71).png 258 222 423 431
+Dataset/processed\Ngoc\ngoc (135).png 138 233 307 461
+Dataset/processed\Ngoc\ngoc (194).png 249 241 414 453
+Dataset/processed\Ngoc\ngoc (88).png 247 224 417 435
+Dataset/processed\Ngoc\ngoc (10).png 33 266 233 480
+Dataset/processed\Ngoc\ngoc (122).png 226 247 381 453
+Dataset/processed\Ngoc\ngoc (134).png 234 228 406 446
+Dataset/processed\Ngoc\ngoc (180).png 242 241 417 465
+Dataset/processed\Ngoc\ngoc (220).png 243 226 404 426
+Dataset/processed\Ngoc\ngoc (68).png 260 226 413 424
+Dataset/processed\Ngoc\ngoc (300).png 183 234 343 438
+Dataset/processed\Ngoc\ngoc (95).png 251 248 415 453
+Dataset/processed\Ngoc\ngoc (148).png 253 251 415 454
+Dataset/processed\Ngoc\ngoc (191).png 248 243 414 454
+Dataset/processed\Ngoc\ngoc (116).png 191 251 329 449
+Dataset/processed\Ngoc\ngoc (77).png 259 224 422 433
+Dataset/processed\Ngoc\ngoc (196).png 248 240 416 455
+Dataset/processed\Ngoc\ngoc (129).png 214 236 386 446
+Dataset/processed\Ngoc\ngoc (281).png 235 243 409 461
+Dataset/processed\Ngoc\ngoc (119).png 245 221 413 438
+Dataset/processed\Ngoc\ngoc (70).png 272 223 432 425
+Dataset/processed\Ngoc\ngoc (199).png 247 239 415 454
+Dataset/processed\Ngoc\ngoc (55).png 261 225 417 424
+Dataset/processed\Ngoc\ngoc (83).png 259 229 415 434
+Dataset/processed\Ngoc\ngoc (257).png 244 243 420 469
+Dataset/processed\Ngoc\ngoc (219).png 246 222 399 413
+Dataset/processed\Ngoc\ngoc (69).png 275 223 435 424
+Dataset/processed\Ngoc\ngoc (270).png 237 246 428 480
+Dataset/processed\Ngoc\ngoc (57).png 239 236 400 448
+Dataset/processed\Ngoc\ngoc (54).png 264 217 420 417
+Dataset/processed\Ngoc\ngoc (20).png 203 197 401 451
+Dataset/processed\Ngoc\ngoc (84).png 261 226 420 427
+Dataset/processed\Ngoc\ngoc (240).png 238 245 426 480
+Dataset/processed\Ngoc\ngoc (30).png 306 219 468 435
+Dataset/processed\Ngoc\ngoc (142).png 295 218 454 423
+Dataset/processed\Ngoc\ngoc (239).png 242 254 433 480
+Dataset/processed\Ngoc\ngoc (248).png 256 232 433 463
+Dataset/processed\Ngoc\ngoc (244).png 230 264 421 480
+Dataset/processed\Ngoc\ngoc (61).png 222 256 371 443
+Dataset/processed\Ngoc\ngoc (201).png 248 240 415 453
+Dataset/processed\Ngoc\ngoc (146).png 262 225 423 418
+Dataset/processed\Ngoc\ngoc (160).png 249 241 413 449
+Dataset/processed\Ngoc\ngoc (181).png 243 251 415 460
+Dataset/processed\Ngoc\ngoc (106).png 255 232 422 447
+Dataset/processed\Ngoc\ngoc (72).png 248 227 408 427
+Dataset/processed\Ngoc\ngoc (254).png 242 242 421 471
+Dataset/processed\Ngoc\ngoc (178).png 251 246 411 451
+Dataset/processed\Ngoc\ngoc (62).png 249 228 420 435
+Dataset/processed\Ngoc\ngoc (272).png 240 246 422 478
+Dataset/processed\Ngoc\ngoc (33).png 264 220 431 434
+Dataset/processed\Ngoc\ngoc (259).png 245 245 420 469
+Dataset/processed\Ngoc\ngoc (76).png 260 224 422 434
+Dataset/processed\Ngoc\ngoc (123).png 221 241 374 451
+Dataset/processed\Ngoc\ngoc (298).png 258 238 424 454
+Dataset/processed\Ngoc\ngoc (48).png 261 224 436 443
+Dataset/processed\Ngoc\ngoc (185).png 243 243 416 463
+Dataset/processed\Ngoc\ngoc (115).png 216 233 364 440
+Dataset/processed\Ngoc\ngoc (149).png 264 227 426 436
+Dataset/processed\Ngoc\ngoc (137).png 228 230 377 437
+Dataset/processed\Ngoc\ngoc (287).png 240 244 411 464
+Dataset/processed\Ngoc\ngoc (41).png 250 267 424 464
+Dataset/processed\Ngoc\ngoc (241).png 238 260 428 480
+Dataset/processed\Ngoc\ngoc (11).png 75 248 271 478
+Dataset/processed\Ngoc\ngoc (210).png 291 231 451 436
+Dataset/processed\Ngoc\ngoc (258).png 244 246 416 469
+Dataset/processed\Ngoc\ngoc (153).png 262 231 424 438
+Dataset/processed\Ngoc\ngoc (34).png 266 221 433 434
+Dataset/processed\Ngoc\ngoc (112).png 251 226 418 440
+Dataset/processed\Ngoc\ngoc (64).png 265 264 425 463
+Dataset/processed\Ngoc\ngoc (297).png 257 246 428 459
+Dataset/processed\Ngoc\ngoc (126).png 219 241 362 444
+Dataset/processed\Ngoc\ngoc (266).png 248 247 424 471
+Dataset/processed\Ngoc\ngoc (264).png 246 246 421 471
+Dataset/processed\Ngoc\ngoc (255).png 244 244 419 468
+Dataset/processed\Ngoc\ngoc (293).png 205 243 380 464
+Dataset/processed\Ngoc\ngoc (7).png 261 226 422 430
+Dataset/processed\Ngoc\ngoc (295).png 276 238 446 455
+Dataset/processed\Ngoc\ngoc (169).png 248 242 414 454
+Dataset/processed\Ngoc\ngoc (245).png 237 261 427 480
+Dataset/processed\Ngoc\ngoc (216).png 295 245 450 437
+Dataset/processed\Ngoc\ngoc (294).png 281 248 446 461
+Dataset/processed\Ngoc\ngoc (204).png 262 232 427 441
+Dataset/processed\Ngoc\ngoc (283).png 239 244 408 460
+Dataset/processed\Ngoc\ngoc (157).png 252 239 418 444
+Dataset/processed\Ngoc\ngoc (91).png 254 240 417 452
+Dataset/processed\Ngoc\ngoc (186).png 249 246 411 452
+Dataset/processed\Ngoc\ngoc (27).png 283 246 447 437
+Dataset/processed\Ngoc\ngoc (90).png 257 238 417 446
+Dataset/processed\Ngoc\ngoc (140).png 265 228 429 448
+Dataset/processed\Ngoc\ngoc (189).png 246 242 414 456
+Dataset/processed\Ngoc\ngoc (96).png 251 245 416 456
+Dataset/processed\Ngoc\ngoc (237).png 255 242 428 457
+Dataset/processed\Ngoc\ngoc (109).png 247 242 428 459
+Dataset/processed\Ngoc\ngoc (236).png 252 239 427 459
+Dataset/processed\Ngoc\ngoc (26).png 273 215 445 430
+Dataset/processed\Ngoc\ngoc (267).png 248 247 424 474
+Dataset/processed\Ngoc\ngoc (151).png 259 228 423 438
+Dataset/processed\Ngoc\ngoc (230).png 253 235 424 451
+Dataset/processed\Ngoc\ngoc (223).png 258 225 434 448
+Dataset/processed\Ngoc\ngoc (29).png 265 221 428 432
+Dataset/processed\Ngoc\ngoc (176).png 249 250 409 454
+Dataset/processed\Ngoc\ngoc (279).png 233 243 413 469
+Dataset/processed\Ngoc\ngoc (32).png 242 232 397 441
+Dataset/processed\Ngoc\ngoc (288).png 240 240 412 462
+Dataset/processed\Ngoc\ngoc (203).png 276 227 438 427
+Dataset/processed\Ngoc\ngoc (296).png 257 244 427 460
+Dataset/processed\Ngoc\ngoc (60).png 253 222 423 438
+Dataset/processed\Ngoc\ngoc (277).png 236 228 396 433
+Dataset/processed\Ngoc\ngoc (164).png 250 247 411 453
+Dataset/processed\Ngoc\ngoc (131).png 227 233 385 450
+Dataset/processed\Ngoc\ngoc (118).png 224 229 398 449
+Dataset/processed\Ngoc\ngoc (104).png 242 245 433 480
+Dataset/processed\Ngoc\ngoc (285).png 241 247 409 463
+Dataset/processed\Ngoc\ngoc (226).png 256 229 426 442
+Dataset/processed\Ngoc\ngoc (139).png 256 220 426 448
+Dataset/processed\Ngoc\ngoc (92).png 253 244 417 452
+Dataset/processed\Ngoc\ngoc (24).png 279 202 458 430
+Dataset/processed\Ngoc\ngoc (144).png 263 229 428 435
+Dataset/processed\Ngoc\ngoc (37).png 167 225 352 462
+Dataset/processed\Ngoc\ngoc (4).png 260 145 437 371
+Dataset/processed\Ngoc\ngoc (74).png 258 224 423 431
+Dataset/processed\Ngoc\ngoc (182).png 243 245 414 459
+Dataset/processed\Ngoc\ngoc (18).png 230 191 419 431
+Dataset/processed\Ngoc\ngoc (28).png 279 236 441 440
+Dataset/processed\Ngoc\ngoc (231).png 253 233 426 453
+Dataset/processed\Ngoc\ngoc (19).png 213 192 402 431
+Dataset/processed\Ngoc\ngoc (292).png 94 237 258 465
+Dataset/processed\Ngoc\ngoc (154).png 253 229 421 436
+Dataset/processed\Ngoc\ngoc (101).png 247 231 415 442
+Dataset/processed\Ngoc\ngoc (152).png 265 234 420 432
+Dataset/processed\Ngoc\ngoc (262).png 246 244 422 471
+Dataset/processed\Ngoc\ngoc (290).png 243 244 409 456
+Dataset/processed\Ngoc\ngoc (35).png 263 218 429 429
+Dataset/processed\Ngoc\ngoc (5).png 269 229 429 434
+Dataset/processed\Ngoc\ngoc (75).png 265 224 425 431
+Dataset/processed\Ngoc\ngoc (249).png 240 242 417 471
+Dataset/processed\Ngoc\ngoc (39).png 230 220 410 443
+Dataset/processed\Ngoc\ngoc (253).png 241 241 420 468
+Dataset/processed\Ngoc\ngoc (175).png 245 244 412 457
+Dataset/processed\Ngoc\ngoc (45).png 260 233 421 424
+Dataset/processed\Ngoc\ngoc (177).png 247 243 415 454
+Dataset/processed\Ngoc\ngoc (127).png 222 230 373 443
+Dataset/processed\Ngoc\ngoc (198).png 248 243 416 456
+Dataset/processed\Ngoc\ngoc (47).png 240 219 413 440
+Dataset/processed\Ngoc\ngoc (23).png 249 195 427 415
+Dataset/processed\Ngoc\ngoc (221).png 294 222 464 438
+Dataset/processed\Nhi\photo_95.png 219 161 402 397
+Dataset/processed\Nhi\photo_108.png 227 156 417 388
+Dataset/processed\Nhi\photo_27.png 239 190 420 419
+Dataset/processed\Nhi\photo_129.png 183 176 357 396
+Dataset/processed\Nhi\photo_178.png 226 183 409 412
+Dataset/processed\Nhi\photo_93.png 211 155 395 392
+Dataset/processed\Nhi\photo_74.png 228 193 405 421
+Dataset/processed\Nhi\photo_54.png 230 193 405 412
+Dataset/processed\Nhi\photo_122.png 315 162 471 373
+Dataset/processed\Nhi\photo_149.png 270 170 445 389
+Dataset/processed\Nhi\photo_15.png 245 186 420 400
+Dataset/processed\Nhi\photo_61.png 226 194 406 423
+Dataset/processed\Nhi\photo_89.png 213 159 383 343
+Dataset/processed\Nhi\photo_110.png 216 160 414 407
+Dataset/processed\Nhi\photo_91.png 243 160 418 373
+Dataset/processed\Nhi\photo_43.png 239 191 414 413
+Dataset/processed\Nhi\photo_138.png 243 174 417 397
+Dataset/processed\Nhi\photo_100.png 195 172 372 400
+Dataset/processed\Nhi\photo_23.png 240 189 419 414
+Dataset/processed\Nhi\photo_142.png 230 174 401 396
+Dataset/processed\Nhi\photo_159.png 167 198 347 417
+Dataset/processed\Nhi\photo_143.png 225 175 396 397
+Dataset/processed\Nhi\photo_73.png 226 195 404 423
+Dataset/processed\Nhi\photo_130.png 196 177 364 391
+Dataset/processed\Nhi\photo_123.png 315 162 474 374
+Dataset/processed\Nhi\photo_11.png
+Dataset/processed\Nhi\photo_86.png 217 188 389 412
+Dataset/processed\Nhi\photo_116.png 219 172 409 408
+Dataset/processed\Nhi\photo_67.png 228 194 406 421
+Dataset/processed\Nhi\photo_197.png 202 198 403 431
+Dataset/processed\Nhi\photo_29.png 239 191 418 417
+Dataset/processed\Nhi\photo_105.png 210 156 396 401
+Dataset/processed\Nhi\photo_181.png 232 188 412 416
+Dataset/processed\Nhi\photo_45.png 239 192 414 414
+Dataset/processed\Nhi\photo_58.png 230 183 407 405
+Dataset/processed\Nhi\photo_136.png 289 173 453 389
+Dataset/processed\Nhi\photo_63.png 227 195 405 422
+Dataset/processed\Nhi\photo_184.png 222 191 407 424
+Dataset/processed\Nhi\photo_172.png 206 194 375 413
+Dataset/processed\Nhi\photo_119.png 213 164 373 365
+Dataset/processed\Nhi\photo_22.png 241 192 420 415
+Dataset/processed\Nhi\photo_82.png 217 184 392 406
+Dataset/processed\Nhi\photo_139.png 245 173 413 389
+Dataset/processed\Nhi\photo_26.png 239 191 419 416
+Dataset/processed\Nhi\photo_8.png 220 193 397 387
+Dataset/processed\Nhi\photo_186.png 223 191 410 428
+Dataset/processed\Nhi\photo_113.png 222 161 408 407
+Dataset/processed\Nhi\photo_88.png 261 193 411 360
+Dataset/processed\Nhi\photo_112.png 229 167 420 403
+Dataset/processed\Nhi\photo_70.png 227 196 405 424
+Dataset/processed\Nhi\photo_10.png
+Dataset/processed\Nhi\photo_165.png 233 181 410 404
+Dataset/processed\Nhi\photo_103.png 208 167 402 401
+Dataset/processed\Nhi\photo_173.png 200 192 373 418
+Dataset/processed\Nhi\photo_30.png 236 191 415 415
+Dataset/processed\Nhi\photo_98.png 217 169 403 409
+Dataset/processed\Nhi\photo_144.png 223 169 399 395
+Dataset/processed\Nhi\photo_195.png 202 197 400 430
+Dataset/processed\Nhi\photo_164.png 235 181 411 403
+Dataset/processed\Nhi\photo_115.png 219 168 407 412
+Dataset/processed\Nhi\photo_19.png 244 188 422 412
+Dataset/processed\Nhi\photo_2.png 245 202 436 438
+Dataset/processed\Nhi\photo_92.png 232 158 410 386
+Dataset/processed\Nhi\photo_97.png 221 174 401 399
+Dataset/processed\Nhi\photo_75.png 235 191 407 405
+Dataset/processed\Nhi\photo_21.png 243 192 419 414
+Dataset/processed\Nhi\photo_185.png 224 191 410 426
+Dataset/processed\Nhi\photo_107.png 231 156 419 404
+Dataset/processed\Nhi\photo_20.png 241 189 420 412
+Dataset/processed\Nhi\photo_3.png 252 185 427 412
+Dataset/processed\Nhi\photo_28.png 237 191 417 416
+Dataset/processed\Nhi\photo_120.png 209 166 370 367
+Dataset/processed\Nhi\photo_1.png 246 203 436 442
+Dataset/processed\Nhi\photo_137.png 258 176 433 402
+Dataset/processed\Nhi\photo_133.png 299 171 460 379
+Dataset/processed\Nhi\photo_176.png 211 188 386 410
+Dataset/processed\Nhi\photo_79.png 226 182 404 408
+Dataset/processed\Nhi\photo_174.png 199 197 369 414
+Dataset/processed\Nhi\photo_117.png 223 164 408 407
+Dataset/processed\Nhi\photo_127.png 208 170 380 381
+Dataset/processed\Nhi\photo_124.png
+Dataset/processed\Nhi\photo_48.png 237 193 413 417
+Dataset/processed\Nhi\photo_134.png 304 170 473 385
+Dataset/processed\Nhi\photo_4.png 266 188 434 399
+Dataset/processed\Nhi\photo_175.png 204 194 375 412
+Dataset/processed\Nhi\photo_40.png 244 187 420 413
+Dataset/processed\Nhi\photo_6.png 250 190 422 402
+Dataset/processed\Nhi\photo_56.png 232 180 412 408
+Dataset/processed\Nhi\photo_80.png 228 182 406 411
+Dataset/processed\Nhi\photo_96.png 221 163 402 397
+Dataset/processed\Nhi\photo_46.png 239 192 415 418
+Dataset/processed\Nhi\photo_153.png 256 184 432 409
+Dataset/processed\Nhi\photo_14.png 253 187 425 410
+Dataset/processed\Nhi\photo_152.png 281 186 448 400
+Dataset/processed\Nhi\photo_64.png 228 196 405 422
+Dataset/processed\Nhi\photo_59.png 227 186 404 409
+Dataset/processed\Nhi\photo_83.png 204 192 377 415
+Dataset/processed\Nhi\photo_42.png 240 191 415 413
+Dataset/processed\Nhi\photo_190.png 209 192 405 430
+Dataset/processed\Nhi\photo_9.png
+Dataset/processed\Nhi\photo_35.png 233 185 411 415
+Dataset/processed\Nhi\photo_101.png 194 172 375 402
+Dataset/processed\Nhi\photo_111.png 230 161 424 406
+Dataset/processed\Nhi\photo_94.png 216 158 399 392
+Dataset/processed\Nhi\photo_33.png 250 186 425 417
+Dataset/processed\Nhi\photo_34.png 241 186 417 413
+Dataset/processed\Nhi\photo_78.png 219 180 400 410
+Dataset/processed\Nhi\photo_51.png 231 191 407 414
+Dataset/processed\Nhi\photo_196.png 199 200 400 431
+Dataset/processed\Nhi\photo_131.png 198 175 371 392
+Dataset/processed\Nhi\photo_150.png 275 193 449 401
+Dataset/processed\Nhi\photo_187.png 231 191 416 428
+Dataset/processed\Nhi\photo_49.png 238 192 411 413
+Dataset/processed\Nhi\photo_87.png 267 184 435 382
+Dataset/processed\Nhi\photo_156.png 130 208 319 431
+Dataset/processed\Nhi\photo_102.png 199 167 382 402
+Dataset/processed\Nhi\photo_76.png 229 187 410 404
+Dataset/processed\Nhi\photo_7.png 179 205 370 401
+Dataset/processed\Nhi\photo_160.png 215 187 387 406
+Dataset/processed\Nhi\photo_106.png 227 157 423 406
+Dataset/processed\Nhi\photo_163.png 236 178 412 401
+Dataset/processed\Nhi\photo_189.png 232 187 420 427
+Dataset/processed\Nhi\photo_50.png 237 193 410 415
+Dataset/processed\Nhi\photo_145.png 235 159 403 381
+Dataset/processed\Nhi\photo_132.png 244 169 416 386
+Dataset/processed\Nhi\photo_5.png 270 187 436 401
+Dataset/processed\Nhi\photo_128.png 172 173 350 392
+Dataset/processed\Nhi\photo_60.png 230 189 404 410
+Dataset/processed\Nhi\photo_52.png 229 189 411 413
+Dataset/processed\Nhi\photo_69.png 227 196 405 422
+Dataset/processed\Nhi\photo_18.png 244 188 423 412
+Dataset/processed\Nhi\photo_57.png 232 184 408 407
+Dataset/processed\Nhi\photo_36.png 231 187 407 410
+Dataset/processed\Nhi\photo_158.png 132 210 315 431
+Dataset/processed\Nhi\photo_135.png 301 170 468 388
+Dataset/processed\Nhi\photo_81.png 230 181 407 408
+Dataset/processed\Nhi\photo_199.png 201 191 396 428
+Dataset/processed\Nhi\photo_194.png 200 198 402 429
+Dataset/processed\Nhi\photo_109.png 226 164 409 398
+Dataset/processed\Nhi\photo_146.png 245 163 413 380
+Dataset/processed\Nhi\photo_166.png 231 182 408 404
+Dataset/processed\Nhi\photo_151.png 282 187 457 401
+Dataset/processed\Nhi\photo_193.png 195 197 400 432
+Dataset/processed\Nhi\photo_125.png
+Dataset/processed\Nhi\photo_68.png 234 191 412 421
+Dataset/processed\Nhi\photo_12.png 230 193 403 388
+Dataset/processed\Nhi\photo_180.png 230 188 411 416
+Dataset/processed\Nhi\photo_182.png 230 189 411 418
+Dataset/processed\Nhi\photo_37.png 235 187 410 410
+Dataset/processed\Nhi\photo_188.png 232 191 417 427
+Dataset/processed\Nhi\photo_154.png 175 199 356 414
+Dataset/processed\Nhi\photo_169.png 215 194 390 416
+Dataset/processed\Nhi\photo_72.png 227 197 404 422
+Dataset/processed\Nhi\photo_171.png 206 192 376 410
+Dataset/processed\Nhi\photo_65.png 230 191 405 420
+Dataset/processed\Nhi\photo_39.png 241 196 427 416
+Dataset/processed\Nhi\photo_99.png 203 166 389 401
+Dataset/processed\Nhi\photo_179.png 231 184 413 414
+Dataset/processed\Nhi\photo_170.png 209 194 377 410
+Dataset/processed\Nhi\photo_31.png 237 192 416 415
+Dataset/processed\Nhi\photo_38.png 240 185 415 408
+Dataset/processed\Nhi\photo_162.png 237 185 401 396
+Dataset/processed\Nhi\photo_13.png 265 186 436 411
+Dataset/processed\Nhi\photo_168.png 227 189 399 411
+Dataset/processed\Nhi\photo_85.png 207 194 378 418
+Dataset/processed\Nhi\photo_24.png 239 190 419 415
+Dataset/processed\Nhi\photo_192.png 192 199 395 430
+Dataset/processed\Nhi\photo_47.png 239 195 414 416
+Dataset/processed\Nhi\photo_44.png 239 191 414 414
+Dataset/processed\Nhi\photo_104.png 216 164 400 403
+Dataset/processed\Nhi\photo_53.png 232 190 407 410
+Dataset/processed\Nhi\photo_62.png 227 196 405 422
+Dataset/processed\Nhi\photo_32.png 238 192 416 415
+Dataset/processed\Nhi\photo_77.png 214 191 399 411
+Dataset/processed\Nhi\photo_148.png 271 173 447 390
+Dataset/processed\Nhi\photo_25.png 240 192 419 414
+Dataset/processed\Nhi\photo_198.png 199 193 397 432
+Dataset/processed\Nhi\photo_147.png 257 166 441 392
+Dataset/processed\Nhi\photo_191.png 189 199 393 430
+Dataset/processed\Nhi\photo_141.png 236 175 406 395
+Dataset/processed\Nhi\photo_55.png 230 192 406 412
+Dataset/processed\Nhi\photo_155.png 124 211 312 434
+Dataset/processed\Nhi\photo_71.png 226 196 405 423
+Dataset/processed\Nhi\photo_167.png 227 188 404 411
+Dataset/processed\Nhi\photo_16.png 247 192 421 406
+Dataset/processed\Nhi\photo_90.png 205 100 401 315
+Dataset/processed\Nhi\photo_161.png 241 175 410 389
+Dataset/processed\Nhi\photo_118.png 227 156 398 379
+Dataset/processed\Nhi\photo_84.png 208 193 378 414
+Dataset/processed\Nhi\photo_126.png 242 163 409 340
+Dataset/processed\Nhi\photo_177.png 213 188 388 412
+Dataset/processed\Nhi\photo_121.png 298 158 455 357
+Dataset/processed\Nhi\photo_17.png 247 190 423 409
+Dataset/processed\Nhi\photo_114.png 219 163 407 410
+Dataset/processed\Nhi\photo_157.png 129 214 314 433
+Dataset/processed\Nhi\photo_200.png 207 193 399 429
+Dataset/processed\Nhi\photo_66.png 228 195 406 421
+Dataset/processed\Nhi\photo_183.png 225 188 408 422
+Dataset/processed\Nhi\photo_41.png 242 191 417 411
+Dataset/processed\Nhi\photo_140.png 240 171 408 386
